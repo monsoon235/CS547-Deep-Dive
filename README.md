@@ -12,4 +12,6 @@ The raw data (`gpa` directory) of this project is from [University of Illinois' 
 
 ## License
 
-This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
+This project (except the `data` and `gpa` directory) is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
+
+For the `data` and `gpa` directory, follow the guide of [University of Illinois' GPA Dataset](https://github.com/wadefagen/datasets/tree/master/gpa).
